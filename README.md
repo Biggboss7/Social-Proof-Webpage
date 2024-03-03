@@ -28,7 +28,7 @@ Mobile Preview \
 ### Links
 
 - Solution URL: https://github.com/Biggboss7/Social-Proof-Webpage/
-- Live Site URL: - https://biggboss7.github.io/Social-Proof-Webpage/
+- Live Site URL: https://social-proof-biggboss7.netlify.app/
 
 ## My process
 
